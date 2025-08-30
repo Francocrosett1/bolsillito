@@ -1,6 +1,6 @@
 # Bolsillito (Demo)
 
-Bolsillito es mi **primera aplicación web** creada como un proyecto de aprendizaje para gestionar presupuestos personales. Es una demo no destinada a la comercialización, diseñada para explorar conceptos de desarrollo web con HTML, CSS y JavaScript. Permite rastrear ingresos, gastos y ahorros en categorías semanales, mensuales y de ahorro, con visualizaciones básicas y alertas. Todo se ejecuta en el navegador y usa LocalStorage para persistencia. **Nota**: Muchas funcionalidades son prototipos y no están completamente implementadas o pulidas.
+Bolsillito es mi **primera aplicación web** creada como un proyecto de aprendizaje para gestionar presupuestos personales. Es una demo no destinada a la comercialización, diseñada para explorar conceptos de desarrollo web con HTML, CSS y JavaScript, con el apoyo de herramientas de inteligencia artificial para optimizar mi aprendizaje y mejorar el proceso de desarrollo. Permite rastrear ingresos, gastos y ahorros en categorías semanales, mensuales y de ahorro, con visualizaciones básicas y alertas. Todo se ejecuta en el navegador y usa LocalStorage para persistencia. **Nota**: Muchas funcionalidades son prototipos y no están completamente implementadas o pulidas.
 
 ## Características Principales (Demo)
 
@@ -8,13 +8,7 @@ Bolsillito es mi **primera aplicación web** creada como un proyecto de aprendiz
 - **Categorías Personalizadas**: Agrega/elimina subcategorías con íconos y gastos (funcionalidad básica).
 - **Períodos Temporales**: Navega entre vistas semanales/mensuales con fechas automáticas (navegación a futuro limitada).
 - **Visualizaciones**: Gráficos de barras simples para gastos vs. presupuesto (funcionalidad limitada).
-- **Análisis Inteligente**: Estadísticas básicas de ahorros y sugerencias (prototipo, no siempre precisas).
-- **Alertas**: Notificaciones para exceder presupuestos o errores (parcialmente implementadas).
 - **Exportar/Importar Datos**: Soporte básico para CSV (puede ser inestable).
-- **Responsive**: Diseño adaptable, pero no totalmente optimizado.
-- **Persistencia Local**: Datos guardados en LocalStorage con opción de reinicio.
-
-**Advertencia**: Esta es una demo educativa. Algunas funciones, como gráficos avanzados, validaciones robustas o configuraciones completas, no están implementadas o pueden fallar.
 
 ## Instalación
 
