@@ -26,12 +26,11 @@ No requiere dependencias externas; es una app estática.
 
 2. Abre index.html en un navegador moderno:
 
-   Haz doble clic en el archivo.
-   O usa un servidor local para evitar problemas CORS:
+   Si tienes Node.js, usa:
    ```bash 
-   python -m http.server 8000
+   npx serve
 
-Accede a http://localhost:8000/index.html.
+Accede a http://localhost:3000
 
 ## Uso
 
