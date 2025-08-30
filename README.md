@@ -1,2 +1,2 @@
-# bolsillito
+# Bolsillito
 budget app
