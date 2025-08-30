@@ -24,7 +24,11 @@ No requiere dependencias externas; es una app estática.
    ```bash
    git clone https://github.com/Francocrosett1/bolsillito.git
 
-2. Abre index.html en un navegador moderno:
+2. Navega a la carpeta clonada
+   ```bash
+   cd bolsillito
+
+4. Abre index.html en un navegador moderno:
 
    Si tienes Node.js, usa:
    ```bash 
